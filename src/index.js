@@ -9,7 +9,6 @@ ReactDOM.render(
     <div className="flex h-screen w-screen bg-indigo-300">
       <ListBook/>
     </div>
-    
   </React.StrictMode>,
   document.getElementById('root')
 );
